@@ -49,7 +49,7 @@ class Navbar extends Component {
             <div>
                 <nav className="navbar navbar-expand-sm navbar-dark bg-dark mb-4">
                     <div className="container">
-                        <Link className="navbar-brand" to="/">开发者</Link>
+                        <Link className="navbar-brand" to="/">NBB</Link>
                         <button
                             className="navbar-toggler"
                             type="button"
